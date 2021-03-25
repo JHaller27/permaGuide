@@ -1,5 +1,15 @@
 # Magic
 
+## Table of Contents
+* [Alteration](./alteration.md)
+* [Conjuration](./conjuration.md)
+* [Destruction](./destruction.md)
+* [Enchanting](./enchanting.md)
+* [Illusion](./illusion.md)
+* [Restoration](./restoration.md)
+
+## Overview
+
 Before I post the current PerMa Conjuration tree, I shall provide you with some general notes on how magic in general differs between vanilla Skyrim/SkyRe and PerMa.
 
 =======================------------------

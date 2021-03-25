@@ -1,3 +1,5 @@
+_[Go to Alteration Spells](./spells/alteration.md)_
+
 Studies: Novice Alteration (0)
 1- Grants a random novice level Alteration spell. All Alteration spells are 15% cheaper and last 15% longer.
 

@@ -1,3 +1,5 @@
+_[Go to Restoration Spells](./spells/restoration.md)_
+
 Perks [Restoration]
 ===============-------
 

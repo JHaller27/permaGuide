@@ -1,3 +1,5 @@
+_[Go to Conjuration Perks](../conjuration.md)_
+
 Spells [Conjuration]
 ============--------
 

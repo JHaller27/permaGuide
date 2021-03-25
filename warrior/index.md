@@ -1,5 +1,14 @@
 # Warrior
 
+## Table of Contents
+* [Block](./block.md)
+* [Heavy Armor](./heavyarmor.md)
+* [Heavy Weaponry](./heavyweaponry.md)
+* [Light Weaponry](./lightweaponry.md)
+* [Ranged Weaponry](./rangedweaponry.md)
+* [Smithing](./smithing.md)
+
+## Overview
 General changes and new curiosities:
 
 - "Mastery" perks. Activated abilities. Mutually exclusive - exactly one can be chosen per character.

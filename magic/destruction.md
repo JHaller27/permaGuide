@@ -1,3 +1,5 @@
+_[Go to Destruction Spells](./spells/destruction.md)_
+
 Studies: Novice Destruction (0)
 1- Grants a random novice level Destruction spell. All Destruction spells are 15% cheaper and stronger
 

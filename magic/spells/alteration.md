@@ -1,3 +1,5 @@
+_[Go to Alteration Perks](../alteration.md)_
+
 Spells [Alteration]
 ============--------
 

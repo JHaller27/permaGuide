@@ -1,3 +1,5 @@
+_[Go to Destruction Perks](../destruction.md)_
+
 Spells [Destruction]
 ============--------
 

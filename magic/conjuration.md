@@ -1,3 +1,5 @@
+_[Go to Conjuration Spells](./spells/conjuration.md)_
+
 Studies: Novice Conjuration (0)
 1- Grants a random novice level Conjuration spell. All Conjuration spells are 20% cheaper.
 

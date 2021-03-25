@@ -1,3 +1,5 @@
+_[Go to Illusion Spells](./spells/illusion.md)_
+
 Studies: Novice Illusion
 1- Grants a random novice level Illusion spell. All Illusion spells are 20% cheaper.
 

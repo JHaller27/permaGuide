@@ -1,5 +1,14 @@
 # Thief
 
+## Table of Contents
+* [Alchemy](./alchemy.md)
+* [Dexterity](./dexterity.md)
+* [Light Armor](./lightarmor.md)
+* [Sneak](./sneak.md)
+* [Speechcraft](./speechcraft.md)
+* [Wayfarer](./wayfarer.md)
+
+## Overview
 
 The following changes, additions and tweaks have been made to both make thief gameplay more interesting
 and less of a gamebreaker.

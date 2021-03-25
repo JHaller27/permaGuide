@@ -1,3 +1,5 @@
+_[Go to Illusion Perks](../illusion.md)_
+
 Spells [Illusion]
 ============--------
 
