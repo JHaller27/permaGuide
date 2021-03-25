@@ -1,5 +1,4 @@
-
-====================================
+# Warrior
 
 General changes and new curiosities:
 
