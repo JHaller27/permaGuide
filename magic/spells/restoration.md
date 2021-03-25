@@ -1,3 +1,6 @@
+_[Home](../../)_ |
+_[Spells](../spells)_
+
 _[Go to Restoration Perks](../restoration.md)_
 
 Spells [Restoration]

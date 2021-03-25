@@ -1,3 +1,6 @@
+_[Home](../)_ |
+_[Warrior Perks](../warrior)_
+
 Perks [Heavy Weaponry]
 ===============-------
 

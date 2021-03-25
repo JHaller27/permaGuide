@@ -1,3 +1,6 @@
+_[Home](../)_ |
+_[Thief Perks](../thief)_
+
 Perks [Wayfarer]
 ===============-------
 

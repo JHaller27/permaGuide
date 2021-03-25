@@ -1,3 +1,6 @@
+_[Home](../)_ |
+_[Magic Perks](../magic)_
+
 Perks [Enchanting]
 ===============-------
 

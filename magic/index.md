@@ -1,3 +1,5 @@
+_[Home](../../)_
+
 # Magic
 
 ## Table of Contents

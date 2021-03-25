@@ -1,3 +1,5 @@
+_[Home](../)_
+
 # Warrior
 
 ## Table of Contents

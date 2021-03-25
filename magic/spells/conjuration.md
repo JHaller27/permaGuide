@@ -1,3 +1,6 @@
+_[Home](../../)_ |
+_[Spells](../spells)_
+
 _[Go to Conjuration Perks](../conjuration.md)_
 
 Spells [Conjuration]

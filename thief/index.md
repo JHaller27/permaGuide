@@ -1,3 +1,5 @@
+_[Home](../)_
+
 # Thief
 
 ## Table of Contents

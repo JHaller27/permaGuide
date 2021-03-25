@@ -1,4 +1,7 @@
-_[Go to Destruction Spells](./spells/destruction.md)_
+_[Home](../)_ |
+_[Magic Perks](../magic)_
+
+_[Destruction Spells](./spells/destruction.md)_
 
 Studies: Novice Destruction (0)
 1- Grants a random novice level Destruction spell. All Destruction spells are 15% cheaper and stronger

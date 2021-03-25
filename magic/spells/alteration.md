@@ -1,3 +1,6 @@
+_[Home](../../)_ |
+_[Spells](../spells)_
+
 _[Go to Alteration Perks](../alteration.md)_
 
 Spells [Alteration]

@@ -1,4 +1,7 @@
-_[Go to Restoration Spells](./spells/restoration.md)_
+_[Home](../)_ |
+_[Magic Perks](../magic)_
+
+_[Restoration Spells](./spells/restoration.md)_
 
 Perks [Restoration]
 ===============-------
