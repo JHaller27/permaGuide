@@ -1,5 +1,5 @@
-# [Magic](/magic)
+# [Magic](./magic)
 
-# [Thief](/thief)
+# [Thief](./thief)
 
-# [Warrior](/warrior)
+# [Warrior](./warrior)
