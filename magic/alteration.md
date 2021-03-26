@@ -5,6 +5,12 @@ _[Alteration Spells](./spells/alteration.md)_
 
 # Perks [Alteration]
 
+## Tree
+
+![Alteration Perk Tree](../assets/tree_alteration.png "Alteration Perk Tree Structure")
+
+## Perks
+
 **Studies: Novice Alteration** _(0)_
 
 1. Grants a random novice level Alteration spell. All Alteration spells are 15% cheaper and last 15% longer.

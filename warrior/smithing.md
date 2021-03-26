@@ -3,6 +3,12 @@ _[Warrior Perks](../warrior)_
 
 # Perks [Smithing]
 
+## Tree
+
+![Smithing Perk Tree](../assets/tree_smithing.png "Smithing Perk Tree Structure")
+
+## Perks
+
 **Craftsman** _(0/50)_
 1. Tempering is 25% better.
 2. Tempering is x% better, where x is SMITHING_SKILL * 0.5.

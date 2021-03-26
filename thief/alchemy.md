@@ -3,6 +3,12 @@ _[Thief Perks](../thief)_
 
 # Perks [Alchemy]
 
+## Tree
+
+![Alchemy Perk Tree](../assets/tree_alchemy.png "Alchemy Perk Tree Structure")
+
+## Perks
+
 **Alchemist** _(0/30/60)_
 1. Potions and poisons you mix are x% better, where x is 10 + (alchemy skill level)*0.2. Can combine tier 2 "Restore Health/Magicka/Stamina" potions to create tier 3 potions. Learn one more effect when eating an ingredient.
 2. Potions and poisons you mix are x% better, where x is 20 + (alchemy skill level)*0.4. Can combine tier 3 "Restore Health/Magicka/Stamina" potions to create tier 4 potions. Learn one more effect when eating an ingredient.

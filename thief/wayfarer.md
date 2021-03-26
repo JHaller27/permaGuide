@@ -3,6 +3,12 @@ _[Thief Perks](../thief)_
 
 # Perks [Wayfarer]
 
+## Tree
+
+![Wayfarer Perk Tree](../assets/tree_wayfarer.png "Wayfarer Perk Tree Structure")
+
+## Perks
+
 **Traveller** _(0/30)_
 1. Grants 5% frost resistance. Grants 4% movements speed while outdoors.
 2. Grants 10% frost resistance. Grants 8% movements speed while outdoors.

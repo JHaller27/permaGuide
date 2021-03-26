@@ -3,6 +3,12 @@ _[Thief Perks](../thief)_
 
 # Perks [Light Armor]
 
+## Tree
+
+![Light Armor Perk Tree](../assets/tree_lightarmor.png "Light Armor Perk Tree Structure")
+
+## Perks
+
 **Nimble Warfare** _(0/30/60)_
 1. If PerMa_Warrior is active, reduces all incoming direct hit stagger levels by 1 while wearing light head, leg, body and arm armor. If not, makes light armor protect 10% more.
 

@@ -3,6 +3,12 @@ _[Warrior Perks](../warrior)_
 
 # Perks [Heavy Armor]
 
+## Tree
+
+![Heavy Armor Perk Tree](../assets/tree_heavyarmor.png "Heavy Armor Perk Tree Structure")
+
+## Perks
+
 **Conditioning** _(0/30/60)_
 1. Worn heavy armor is 20% lighter.
 2. Worn heavy armor is 25% lighter. Negate movement speed penalty from heavy cuirass.

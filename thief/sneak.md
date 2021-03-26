@@ -3,6 +3,12 @@ _[Thief Perks](../thief)_
 
 # Perks [Sneak]
 
+## Tree
+
+![Sneak Perk Tree](../assets/tree_sneak.png "Sneak Perk Tree Structure")
+
+## Perks
+
 **Stealth** _(0/50)_
 1. Enemy detection view cone is reduced by 25 degrees, sneak 15% better
 2. Enemy detection view cone is reduced by 50 degrees, sneak 30% better

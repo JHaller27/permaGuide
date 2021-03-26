@@ -10,6 +10,12 @@ _[Home](../)_
 * [Ranged Weaponry](./rangedweaponry.md)
 * [Smithing](./smithing.md)
 
+## Weapon Classes and Tiers
+
+![Weapon Classes](../assets/weapon_classes.png "Weapon Classes Venn Diagram")
+![Weapon Tiers](../assets/weapon_tiers.png "Weapon Tiers Chart")
+
+
 ## Overview
 General changes and new curiosities:
 

@@ -3,6 +3,12 @@ _[Thief Perks](../thief)_
 
 # Perks [Speechcraft]
 
+## Tree
+
+![Speechcraft Perk Tree](../assets/tree_speechcraft.png "Speechcraft Perk Tree Structure")
+
+## Perks
+
 **Linguist** _(0/45)_
 1. Buying and selling prices are 15% better. Shout cooldown is reduced by 5%.
 2. Buying and selling prices are 39% better. Shout cooldown is reduced by 10%.

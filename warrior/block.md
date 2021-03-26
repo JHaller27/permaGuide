@@ -3,6 +3,12 @@ _[Warrior Perks](../warrior)_
 
 # Perks [Block]
 
+## Tree
+
+![Block Perk Tree](../assets/tree_block.png "Block Perk Tree Structure")
+
+## Perks
+
 **Safeguard** _(0/40)_
 1. Shield armor rating is increased by 15%. Blocking is 15% more effective.
 2. Shield armor rating is increased by 30%. Blocking is 30% more effective.

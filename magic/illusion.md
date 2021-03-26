@@ -5,6 +5,12 @@ _[Illusion Spells](./spells/illusion.md)_
 
 # Perks [Illusion]
 
+## Tree
+
+![Illusion Perk Tree](../assets/tree_illusion.png "Illusion Perk Tree Structure")
+
+## Perks
+
 **Studies: Novice Illusion**
 1. Grants a random novice level Illusion spell. All Illusion spells are 20% cheaper.
 

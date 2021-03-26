@@ -3,6 +3,12 @@ _[Warrior Perks](../warrior)_
 
 # Perks [Heavy Weaponry]
 
+## Tree
+
+![Heavy Weaponry Perk Tree](../assets/tree_heavyweaponry.png "Heavy Weaponry Perk Tree Structure")
+
+## Perks
+
 **Heavy Weapon Combat** _(0/40)_
 1. Weapons covered by _Heavy Weaponry_ deal 20% more damage. Weapons covered by "Light Weaponry" deal 5% more damage.
 2. Weapons covered by _Heavy Weaponry_ deal 40% more damage. Weapons covered by "Light Weaponry" deal 15% more damage.

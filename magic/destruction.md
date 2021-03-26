@@ -5,6 +5,12 @@ _[Destruction Spells](./spells/destruction.md)_
 
 # Perks [Destruction]
 
+## Tree
+
+![Destruction Perk Tree](../assets/tree_destruction.png "Destruction Perk Tree Structure")
+
+## Perks
+
 **Studies: Novice Destruction** _(0)_
 1. Grants a random novice level Destruction spell. All Destruction spells are 15% cheaper and stronger
 

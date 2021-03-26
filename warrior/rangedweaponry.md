@@ -3,6 +3,12 @@ _[Warrior Perks](../warrior)_
 
 # Perks [Ranged Weaponry]
 
+## Tree
+
+![Ranged Weaponry Perk Tree](../assets/tree_rangedweaponry.png "Ranged Weaponry Perk Tree Structure")
+
+## Perks
+
 **Eagly Eye** _(0/30/60) (X)_
 1. Pressing the block button while aiming with any _Ranged Weaponry_ weapon will zoom the view.
 2. Pressing the block button while aiming with any _Ranged Weaponry_ weapon will zoom the view more and slow time by 30%.

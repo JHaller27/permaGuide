@@ -5,6 +5,12 @@ _[Restoration Spells](./spells/restoration.md)_
 
 # Perks [Restoration]
 
+## Tree
+
+![Restoration Perk Tree](../assets/tree_restoration.png "Restoration Perk Tree Structure")
+
+## Perks
+
 **Studies: Novice Restoration** _(0)_
 1. Grants a random novice level Restoration spell. All Restoration spells are 20% cheaper.
 

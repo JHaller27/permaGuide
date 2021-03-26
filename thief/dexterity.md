@@ -3,6 +3,12 @@ _[Thief Perks](../thief)_
 
 # Perks [Dexterity]
 
+## Tree
+
+![Dexterity Perk Tree](../assets/tree_dexterity.png "Dexterity Perk Tree Structure")
+
+## Perks
+
 **Sleight of Hand** _(0/40)_
 1. Picking pockets is 10% easier. When picking locks, start within 45 degrees of the sweet spot.
 1. Picking pockets is 30% easier. When picking locks, start within 25 degrees of the sweet spot.

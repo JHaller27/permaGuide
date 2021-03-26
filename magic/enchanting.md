@@ -3,6 +3,12 @@ _[Magic Perks](../magic)_
 
 # Perks [Enchanting]
 
+## Tree
+
+![Enchanting Perk Tree](../assets/tree_enchanting.png "Enchanting Perk Tree Structure")
+
+## Perks
+
 **Enchanter** _(0/50)_
 1. Enchantments you create are x% stronger, where x is (0.5* ENCHANTING_SKILL). Caps out at 25% (skill level 50).
 2. Enchantments you create are x% stronger, where x is (0.5* ENCHANTING_SKILL). Caps out at 50% (skill level 100).
