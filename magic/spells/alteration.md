@@ -17,6 +17,7 @@ _[Go to Alteration Perks](../alteration.md)_
 
 
 ## Novice
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Oakflesh** | `33` | Mage Armor. Increases armor rating by 40. |
@@ -28,6 +29,7 @@ _[Go to Alteration Perks](../alteration.md)_
 
 
 ## Apprentice
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Kinetic Push** | `40` | Kinetic (force:10, cooldown: 30s). Pushes the target away from the caster. Works within touch range. |
@@ -43,6 +45,7 @@ _[Go to Alteration Perks](../alteration.md)_
 
 
 ## Adept
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Combat Shift** | `40` | Shift. Move to a location within 40 feet range, then turn by 180 degrees. |
@@ -57,6 +60,7 @@ _[Go to Alteration Perks](../alteration.md)_
 
 
 ## Expert
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Detect Dead** | `50/s` | Utility. Dead creatures within 100(interior)/200(exterior) feet range can be seen through walls. |
@@ -69,6 +73,7 @@ _[Go to Alteration Perks](../alteration.md)_
 
 
 ## Master
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Kinetic Wave** | `100` | Kinetic (force: 0-20 cooldown: 180s). Pushes targets within a 200 feet radius around the caster straight up from the ground. The force depends on the distance to the caster. |
@@ -80,6 +85,7 @@ _[Go to Alteration Perks](../alteration.md)_
 
 
 ## Focus
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Kinetic Shift** | `50` | Shift, Kinetic (force: -10, 10). Pulls all actors within a 25 feet radius towards the caster, then moves the caster to the target location, then pushes all actors within a 25 feet radius away from the caster. 60 feet range. Has a 20 second cooldown that is not linked to the individual cooldowns of "Shift" or "Kinetic" spells. |
@@ -87,6 +93,7 @@ _[Go to Alteration Perks](../alteration.md)_
 
 
 ## Planned
+
 | Spell name | Level | Description |
 |:--|:--|:--|
 | **Rewind** | expert | memorize health, magicka, stamina, after 15 seconds restore memorized values |

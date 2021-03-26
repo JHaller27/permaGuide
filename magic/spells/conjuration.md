@@ -20,6 +20,7 @@ _[Go to Conjuration Perks](../conjuration.md)_
 
 
 ## Novice
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Raise Animal** | `74` | Reanimation. Raises an animal body to permanently fight for the caster. |
@@ -30,6 +31,7 @@ _[Go to Conjuration Perks](../conjuration.md)_
 
 
 ## Apprentice
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Conjure Flame Atonach** | `69` | Regular Daedra Summoning. Conjrues a flame atronach. |
@@ -41,6 +43,7 @@ _[Go to Conjuration Perks](../conjuration.md)_
 
 
 ## Adept
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Conjure Unbound Flame Atronach** | `80` | Unbound Daedra Summoning. Conjures an unbound flame atronach. |
@@ -54,6 +57,7 @@ _[Go to Conjuration Perks](../conjuration.md)_
 
 
 ## Expert
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Conjure Storm Atronach** | `120` | Regular Daedra Summoning. Conjures a storm atronach. |
@@ -64,6 +68,7 @@ _[Go to Conjuration Perks](../conjuration.md)_
 
 
 ## Master
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Conjure Dremora Kynreeve** | `133` | Regular Daedra Summoning. Conjures a dremora kynreeve (heavy weaponry expert). |
@@ -76,6 +81,7 @@ _[Go to Conjuration Perks](../conjuration.md)_
 
 
 ## Focus
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Gates of Oblivion** | `250` | Conjures an Oblivion gate. The gate automatically spawns random Daedra who act on their own. After a while, the stream of Daedra ends, and the gate needs to be closed by activating it. Only one gate can be open at any time, and casting this spell counts as crime. The gate spawns one entity every 4 seconds, a total of 10 times. The chance for a Strom Atronach is 15%, the chance for a Frost Atronach is 25%, and the chance for a Flame Atronach is 60%. |
@@ -83,6 +89,7 @@ _[Go to Conjuration Perks](../conjuration.md)_
 
 
 ## Special (Quest etc)
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Summon Arvak** | `136` | Summons a ghastly horse for 60 seconds. |

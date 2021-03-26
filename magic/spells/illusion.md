@@ -17,6 +17,7 @@ _[Go to Illusion Perks](../illusion.md)_
 | **Disguise** | Spells that disguise the caster's presence. |
 
 ## Novice
+
 | Spell name   | Cost | Description |
 |:--|:--|:--|
 | **Fear** | `31` | Influence. The target flees for 15 seconds. |
@@ -27,6 +28,7 @@ _[Go to Illusion Perks](../illusion.md)_
 
 
 ## Apprentice
+
 | Spell name   | Cost | Description |
 |:--|:--|:--|
 | **Silent Step** | `25/s` | While active, armor noise is reduced by 50%. |
@@ -38,6 +40,7 @@ _[Go to Illusion Perks](../illusion.md)_
 
 
 ## Adept
+
 | Spell name   | Cost | Description |
 |:--|:--|:--|
 | **Fury** | `49` | Influence. The target attacks anyone nearby for 15 seconds. |
@@ -51,6 +54,7 @@ _[Go to Illusion Perks](../illusion.md)_
 
 
 ## Expert
+
 | Spell name   | Cost | Description |
 |:--|:--|:--|
 | **Charm** | `57` | Influence combo. The target fights for you for 20 seconds. |
@@ -63,6 +67,7 @@ _[Go to Illusion Perks](../illusion.md)_
 
 
 ## Master
+
 | Spell name   | Cost | Description |
 |:--|:--|:--|
 | **Greater Charm** | `84` | Influence combo. The target fights for you for 20 seconds, and may be recruited as follower. |
@@ -75,6 +80,7 @@ _[Go to Illusion Perks](../illusion.md)_
 
 
 ## Focus
+
 | Spell name   | Cost | Description |
 |:--|:--|:--|
 | **Lose Hope** | `120` | The target commits suicide. Only works if it is of lower level than the caster and already affected by an "Influence" spell. |
@@ -82,12 +88,14 @@ _[Go to Illusion Perks](../illusion.md)_
 
 
 ## Special (Quest etc)
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Vision of the Tenth Eye** | `0` | See what others cannot. |
 
 
 ## Planned
+
 | Spell name | Level | Decription |
 |:-----------|:------|:-----------|
 | **Panic** | Expert | Fear that spreads to nearby targets |

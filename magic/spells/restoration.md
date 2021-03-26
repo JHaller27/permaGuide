@@ -17,6 +17,7 @@ Notes on archetypes
 - Anti-Undead:	Spells that have potent effects on undead targets, but do not initially work on living targets.
 
 ## Novice
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Chastise** | `30` | Aura. - 200% Health, Stamina and Magicka regeneration for all undead actors within 30 feet range. |
@@ -25,6 +26,7 @@ Notes on archetypes
 
 
 ## Apprentice
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Armored Ascension** | `40` | Aura. 10% More melee weapon damage and 50 armor for all friendly actors within 30 feet range. |
@@ -41,6 +43,7 @@ Notes on archetypes
 
 
 ## Adept
+
 | Spell name | Cost | Decription |
 |:--|:--|:--|
 | **Cryomancer's Sight** | `50` | Aura. 4 Frost damage to Health and Stamina per second, -10% frost resistance and -10% movement speed to all hostile actors within 30 feet. |
@@ -57,6 +60,7 @@ Notes on archetypes
 
 
 ## Expert
+
 | Spell name | Cost | Decription |
 |:--|:--|:--|
 | **Soul Consumer** | `60` | Aura. Whenever a hostile actor within 30 feet range dies, its killer recovers 20% of his maximum Health and Magicka. |
@@ -68,6 +72,7 @@ Notes on archetypes
 
 
 ## Master
+
 | Spell name | Cost | Decription |
 |:--|:--|:--|
 | **Curse of Roots** | `90` | Curse. Whenever the target takes a hit, there is a 20% chance it instantly dies and turns into a tree. The body and inventory are destroyed in the process. |
@@ -77,6 +82,7 @@ Notes on archetypes
 
 
 ## Focus
+
 | Spell name | Cost | Decription |
 |:--|:--|:--|
 | **Curse of Binding** | `150` | Curse. While the target is alive, this spell's caster does not take damage from weapons or Destruction spells, and the caster's spell casting cost is increased by 50%. Only works on targets that are affected by a Plague-type spell. |
@@ -84,12 +90,14 @@ Notes on archetypes
 
 
 ## Special (Quest etc)
+
 | Spell name | Cost | Decription |
 |:--|:--|:--|
 | **Lesser Ward** | `34` | Increases armor rating by 40 and absorbs up to 40 points of spell damage. |
 
 
 ## Planned
+
 | Spell name | Level | Description |
 |:--|:--|:--|
 | **Great Curse of Infestation** | expert? | Drains health while active, spawns single large spider when target dies, spider gets larger when much health was drained. |

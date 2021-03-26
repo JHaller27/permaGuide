@@ -16,6 +16,7 @@ _[Go to Destruction Perks](../destruction.md)_
 | **Skin** | Buff that has a effect that triggers exactly once, then it dispels itself. Has a base duration of 10 days. |
 
 ## Novice
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Sparks** | `15/s` | Shock. Deals 12 points of damage per second. |
@@ -27,6 +28,7 @@ _[Go to Destruction Perks](../destruction.md)_
 
 
 ## Apprentice
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Firebolt** | `37` | Fire. Deals 30 points of damage. |
@@ -44,6 +46,7 @@ _[Go to Destruction Perks](../destruction.md)_
 
 
 ## Adept
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Fireball** | `69` | Fire. Deals 40 points of damage within a 10 feet radius. |
@@ -60,6 +63,7 @@ _[Go to Destruction Perks](../destruction.md)_
 
 
 ## Expert
+
 | Spell name   | Cost | Decription |
 |:--|:--|:--|
 | **Incinerate** | `110` | Fire. Deals 100 points of damage. Has a long casting time (1.5s). |
@@ -74,6 +78,7 @@ _[Go to Destruction Perks](../destruction.md)_
 
 
 ## Master
+
 | Spell name    | Cost | Decription |
 |:--|:--|:--|
 | **Fire Storm** | `126` | Fire. Targets within 100 feet range take 100 damage. Targets within 65 feet range take 75 more damage. Targets within 25 feet range take 50 more damage. |
@@ -100,17 +105,20 @@ _[Go to Destruction Perks](../destruction.md)_
 
 
 ## Focus
+
 | Spell name | Cost | Decription |
 |:-----------|:-----|:-----------|
 | **Heavenlapse** | `160` | Fire/Frost/Shock. A total of 50 projectiles rain down from the sky around the caster, each dealing 40 damage within a 10 feet radius. Follows the caster as he moves. Only works outdoors. |
 
 
 ## Special (Quest etc)
+
 | Spell name | Cost | Decription |
 |:-----------|:-----|:-----------|
 | - | - | - |
 
 ## Planned
+
 | Spell name | Level | Decription |
 |:-----------|:------|:-----------|
 | **Shattering Prison** | master? | Enclose in ice, then smash with large fireball |
