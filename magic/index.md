@@ -4,12 +4,18 @@ _[Spells](./spells)_
 # Magic
 
 ## Table of Contents
-* [Alteration Perks](./alteration.md) | [Spells](./spells/alteration.md)
-* [Conjuration Perks](./conjuration.md) | [Spells](./spells/conjuration.md)
-* [Destruction Perks](./destruction.md) | [Spells](./spells/destruction.md)
-* [Enchanting Perks](./enchanting.md) | [Spells](./spells/enchanting.md)
-* [Illusion Perks](./illusion.md) | [Spells](./spells/illusion.md)
-* [Restoration Perks](./restoration.md) | [Spells](./spells/restoration.md)
+* [Alteration Perks](./alteration.md)
+  - [Spells](./spells/alteration.md)
+* [Conjuration Perks](./conjuration.md)
+  - [Spells](./spells/conjuration.md)
+* [Destruction Perks](./destruction.md)
+  - [Spells](./spells/destruction.md)
+* [Enchanting Perks](./enchanting.md)
+  - [Spells](./spells/enchanting.md)
+* [Illusion Perks](./illusion.md)
+  - [Spells](./spells/illusion.md)
+* [Restoration Perks](./restoration.md)
+  - [Spells](./spells/restoration.md)
 
 ## Overview
 
