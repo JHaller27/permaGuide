@@ -3,20 +3,20 @@ _[Spells](../spells)_
 
 _[Go to Conjuration Perks](../conjuration.md)_
 
-Spells [Conjuration]
-============--------
+# Spells [Conjuration]
 
-Notes on Archetypes
---------------------
+## Notes on Archetypes
 
-- Regular Daedra Summoning:	Summon lesser Daedra for a 30 seconds. Lesser Daedra scale with you, up to a maximum level of 5.
-- Unbound Daedra Summoning:	Summon lesser Daedra permanently. Unbound Daedra have no level limit and spawn at twice your level, but attack anyone nearby. They do not count towards your summoning limit.
-- Skeleton Summoning:		Summon skeletal beings for a set duration. Summoned skeletons scale with you without level limitation, and are at 70% of your level. They last 60 seconds.
-- Skeleton Conjuring:		Create skeletal beaings from ingredients in your inventory to follow you permanently. They do not count towards your summoning limit and are at 85% or 110% or your level.
-- Reanimation:				Reanimate dead bodies to follow you permanently.
-- Mark:						Deal disease damage to a living target, then transform the dying body in some way, before it gets reanimated under your control. Might have level limitations.
-- Vein:						Apply secondary effects to reanimated zombies, at the cost of making reanimation spells 50% more expensive. Mutually exclusive, free to cast, and toggleable.
-- Bound Weapon:				Summon weightless weapons for 120 seconds. Sheathe to dispel.
+| Archetype | Description |
+|:--|:--|
+| Regular Daedra Summoning | Summon lesser Daedra for a 30 seconds. Lesser Daedra scale with you, up to a maximum level of 5. |
+| Unbound Daedra Summoning | Summon lesser Daedra permanently. Unbound Daedra have no level limit and spawn at twice your level, but attack anyone nearby. They do not count towards your summoning limit. |
+| Skeleton Summoning | Summon skeletal beings for a set duration. Summoned skeletons scale with you without level limitation, and are at 70% of your level. They last 60 seconds. |
+| Skeleton Conjuring | Create skeletal beaings from ingredients in your inventory to follow you permanently. They do not count towards your summoning limit and are at 85% or 110% or your level. |
+| Reanimation | Reanimate dead bodies to follow you permanently. |
+| Mark | Deal disease damage to a living target, then transform the dying body in some way, before it gets reanimated under your control. Might have level limitations. |
+| Vein | Apply secondary effects to reanimated zombies, at the cost of making reanimation spells 50% more expensive. Mutually exclusive, free to cast, and toggleable. |
+| Bound Weapon | Summon weightless weapons for 120 seconds. Sheathe to dispel. |
 
 
 ## Novice
@@ -92,12 +92,12 @@ Notes on Archetypes
 | **Conjure Ash Guardian** | `120` | Creates a permanent ash guardian at the target location. If you have a heartstone in your inventory, it will be consumed; if not, the guardian will turn hostile. |
 
 
-Planned
-============--------
-Mark of New Beginnings: AoE caster-centered disease damage. If targets die, reanimate as non-follower zombies.
-A spell to shatter NPC skeletons and take their bones?
-Carcass bomb ?
-Fugly vermin summoning from carcass?
-Destroy carcass for aoe undead buff?
-Destroy Daedra for aoe-daedra buff?
-Spell that drains health per spell cast, but increases summoning limit?
+## Planned
+
+* Mark of New Beginnings: AoE caster-centered disease damage. If targets die, reanimate as non-follower zombies.
+* A spell to shatter NPC skeletons and take their bones?
+* Carcass bomb ?
+* Fugly vermin summoning from carcass?
+* Destroy carcass for aoe undead buff?
+* Destroy Daedra for aoe-daedra buff?
+* Spell that drains health per spell cast, but increases summoning limit?
