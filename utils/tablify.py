@@ -2,7 +2,7 @@ import sys
 import re
 
 
-TABLE_ROW_REGEX = re.compile(r"^([\w ]+?)\s*\|\s*(\S+)\s*\|\s*(.*)$")
+TABLE_ROW_REGEX = re.compile(r"^([^|]+?)\s*\|\s*(\S+)\s*\|\s*(.*)$")
 
 
 class StdIn:
