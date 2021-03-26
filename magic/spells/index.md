@@ -1,4 +1,5 @@
-_[Home](../../)_ | _[Perks](../)_
+_[Home](../../)_ |
+_[Perks](../)_
 
 # [Alteration](./alteration.md)
 
