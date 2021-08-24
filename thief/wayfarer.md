@@ -95,7 +95,7 @@ _[Thief Perks](../thief)_
 1. Perks that require you to know a race's lore work with Deer, Elks, Mudcrabs, Foxes,
     Hares, Skeever, Venomfang Skeever, Wolves and Slaughterfish.
 
-    Lore: Predators (35)
+**Lore: Predators** _(35)_
 1. Perks that require you to know a race's lore work with Spriggans, Spriggan Matrons,
     Sabre Cats, Snowy Sabre Cats and Ice Wraiths.
 
